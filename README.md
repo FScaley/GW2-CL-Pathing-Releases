@@ -2,7 +2,7 @@
 
 TacO / Blish HUD marker packs for Guild Wars 2, as a [Nexus](https://raidcore.gg/Nexus) addon: markers and trails drawn in the game world, no separate overlay program needed.
 
-**Early version.** Markers and trails of the current map are drawn and categories can be switched on and off. Behaviors (markers that disappear once collected), filters, the map/minimap overlay, interaction and pack scripts are not there yet.
+Markers and trails of the current map with their categories, behaviors (markers that disappear once collected), filters (including achievements), copy / info / bounce markers, the world map and minimap, tooltips, the packs' Lua scripts and step-by-step routes. With [Claymore Law Assistant](https://github.com/FScaley/GW2-Claymore-Assistant-Releases) v0.7.0 or newer, its marker search shows what you look for - in the world, and on the world map for every map.
 
 ## Installation
 
