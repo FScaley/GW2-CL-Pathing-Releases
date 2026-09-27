@@ -8,12 +8,12 @@ Markers and trails of the current map with their categories, behaviors (markers 
 
 1. [Nexus](https://raidcore.gg/Nexus) must be installed.
 2. Download `claymore-pathing.dll` from the [latest release](../../releases/latest) and put it in the game's `addons/` folder.
-3. Marker packs: if Blish HUD is installed, its packs (`Documents\Guild Wars 2\addons\blishhud\markers\`) are read automatically, and your Blish category choices are taken over on the first start (Blish's files are only read, never changed). Otherwise put `.taco` / `.zip` packs into `addons\claymore-pathing\markers\`.
+3. Marker packs: if Blish HUD is installed, its packs (`Documents\Guild Wars 2\addons\blishhud\markers\`) are read automatically, and your Blish category choices are taken over on the first start (Blish's files are only read, never changed). Otherwise open the **Marker packs** window (options, the QuickAccess menu or the category window) and download packs from Blish HUD's pack list with one click - each one comes from its author's own address and updates by itself (v0.9.0) - or put `.taco` / `.zip` packs into `addons\claymore-pathing\markers\` yourself.
 4. In the game: **ALT+SHIFT+M** shows/hides markers, **ALT+SHIFT+N** opens the category window. Settings are in the Nexus options (CTRL+O > Addons > Claymore Law Pathing).
 
 Updates arrive automatically through Nexus. Nothing is drawn in WvW or PvP.
 
-Marker packs belong to their authors and are not distributed here.
+Marker packs belong to their authors and are not distributed or hosted here: the addon downloads each one from its author's own address, when you ask for it.
 
 ## Language
 
